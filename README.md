@@ -9,7 +9,7 @@ A simple example of using Fast API in Python.
 ## Clone the project
 
 ```
-git clone https://github.com/nguyenxuongkim2103/doodoo-crud-api.git
+https://github.com/nguyenxuongkim2103/congenial-eureka
 ```
 
 ## Run local
@@ -23,13 +23,7 @@ pip install -r requirements.txt
 ### Run server
 
 ```
-uvicorn app.main:app --reload
-```
-
-### Run test
-
-```
-pytest app/test.py
+uvicorn app.main:app
 ```
 
 ## API documentation (provided by Swagger UI)
